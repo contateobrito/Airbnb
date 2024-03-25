@@ -1,18 +1,18 @@
 # Análise Exploratória de Dados do Airbnb na Cidade de Nova York
 
-## Apresentação dos Dados
-- O conjunto de dados utilizado nesta análise foi obtido do Kaggle e contém informações detalhadas sobre as listagens do Airbnb na cidade de Nova York. Os dados incluem variáveis como preço, localização, tipo de propriedade, avaliações, disponibilidade e muito mais. Este conjunto de dados nos proporciona uma visão abrangente do mercado de aluguel de curto prazo na cidade de Nova York.
+## Apresentação dos Dados  
+O conjunto de dados utilizado nesta análise foi obtido do Kaggle e contém informações detalhadas sobre as listagens do Airbnb na cidade de Nova York. Os dados incluem variáveis como preço, localização, tipo de propriedade, avaliações, disponibilidade e muito mais. Este conjunto de dados nos proporciona uma visão abrangente do mercado de aluguel de curto prazo na cidade de Nova York.
 
 ## Fonte do dataset
 - [Base Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data?resource=download)
 
-## Introdução
-- O Airbnb se tornou uma plataforma popular para viajantes em todo o mundo que buscam acomodações únicas e autênticas. Com milhares de listagens em cidades cosmopolitas como Nova York, analisar os dados do Airbnb pode fornecer insights valiosos para viajantes, proprietários de imóveis e pesquisadores. Neste projeto, conduziremos uma análise exploratória de dados para entender melhor o mercado de aluguel de curto prazo na cidade de Nova York e identificar padrões e tendências relevantes.
+## Introdução  
+O Airbnb se tornou uma plataforma popular para viajantes em todo o mundo que buscam acomodações únicas e autênticas. Com milhares de listagens em cidades cosmopolitas como Nova York, analisar os dados do Airbnb pode fornecer insights valiosos para viajantes, proprietários de imóveis e pesquisadores. Neste projeto, conduziremos uma análise exploratória de dados para entender melhor o mercado de aluguel de curto prazo na cidade de Nova York e identificar padrões e tendências relevantes.
 
-## Objetivos
-- O objetivo deste projeto é realizar uma análise exploratória de dados sobre as listagens do Airbnb na cidade de Nova York. Por meio dessa análise, pretendemos extrair insights significativos sobre os padrões de preços, distribuição geográfica, tipos de propriedades e outras tendências relevantes.
+## Objetivos  
+O objetivo deste projeto é realizar uma análise exploratória de dados sobre as listagens do Airbnb na cidade de Nova York. Por meio dessa análise, pretendemos extrair insights significativos sobre os padrões de preços, distribuição geográfica, tipos de propriedades e outras tendências relevantes.
 
-## Questionamentos que podem ser respondido atráves de uma analise descritiva
+### Questionamentos que podem ser respondido atráves de uma analise descritiva
 
 - **Distribuição espacial das listagens**: Como as listagens de Airbnb estão distribuídas geograficamente pela cidade de Nova York? Existem áreas com maior concentração de listagens do que outras?
 - **Preços médios por bairro**: Qual é o preço médio de aluguel por noite em diferentes bairros de Nova York? Existem discrepâncias significativas nos preços entre os bairros?
@@ -25,7 +25,7 @@
 - **Comodidades mais populares**: Quais são as comodidades mais comuns oferecidas nas listagens de Airbnb em Nova York? Qual é a frequência de cada uma delas?
 - **Distribuição de preços por tipo de propriedade**: Como os preços variam entre diferentes tipos de propriedades (apartamentos, casas, quartos compartilhados, etc.)? Existe uma diferença significativa nos preços entre eles?
 
-## Questionamentos que podem ser respondido atráves de uma analise preditiva 
+### Questionamentos que podem ser respondido atráves de uma analise preditiva 
 - **Previsão de Preços:** Como podemos prever os preços de novas listagens com base em características como localização, tipo de propriedade, comodidades oferecidas, etc.?  
 - **Previsão de Taxa de Ocupação:** Podemos prever a taxa de ocupação das listagens com base em fatores como época do ano, preço, localização e comodidades?  
 - **Previsão de Avaliações:** É possível prever as avaliações que os hóspedes darão às propriedades com base em características da listagem, interações com o anfitrião, etc.?  
@@ -37,7 +37,7 @@
 - **Previsão de Lucratividade para Anfitriões:** Podemos prever a lucratividade potencial de uma listagem com base em características da propriedade e custos associados?  
 - **Modelos de Demanda de Curto Prazo:** Podemos desenvolver modelos de demanda de curto prazo para prever a demanda por listagens em datas específicas, levando em consideração eventos locais, feriados, etc.?  
 
- **Tecnologias Utilizadas**:  
+## **Tecnologias Utilizadas**:  
 - Python
 - Pandas
 - Matplotlib
