@@ -36,10 +36,10 @@ O objetivo deste projeto é realizar uma análise exploratória de dados sobre a
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
-- Scikit-learn
 
 🚧 **Análise Exploratória de Dados**: Principais insights e descobertas obtidos durante a análise dos dados.  
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/fbc4573c-31ca-4e7a-85d1-3d7d055faaf8)
+
 🚧 **Visualizações**: Gráficos e visualizações criados para representar os padrões e tendências encontrados nos dados.  
 🚧 **Como Contribuir**: Instruções para contribuir com o projeto, seja por meio de correções, melhorias ou novas análises.  
 🚧 **Licença**: Informações sobre a licença do projeto e os termos de uso do código e dos dados.
