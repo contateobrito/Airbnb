@@ -38,7 +38,20 @@ O objetivo deste projeto é realizar uma análise exploratória de dados sobre a
 - Matplotlib
 
 🚧 **Análise Exploratória de Dados**: Principais insights e descobertas obtidos durante a análise dos dados.  
+Média de preços de acomodação por distrito
 ![image](https://github.com/contateobrito/Airbnb/assets/79146445/fbc4573c-31ca-4e7a-85d1-3d7d055faaf8)
+
+Distribuição por tipo de acomadação por distrito
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/7554cd20-7d83-4668-853d-997bed142b46)
+
+Quantidade de host por distrito
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/07232bd9-f297-4fd4-8006-c1f415c8e83d)
+
+Histograma da frequencia de dias disponiveis para locação
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/6e9fba46-faf1-4385-9d6c-3d7c88cde549)
+
+Tipo de acomodações em forma de dispersão
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/2c8f7c0a-9cc5-47f9-83c0-ac8fab7f14e5)
 
 🚧 **Visualizações**: Gráficos e visualizações criados para representar os padrões e tendências encontrados nos dados.  
 🚧 **Como Contribuir**: Instruções para contribuir com o projeto, seja por meio de correções, melhorias ou novas análises.  
