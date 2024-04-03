@@ -39,6 +39,9 @@ O objetivo deste projeto é realizar uma análise exploratória de dados sobre a
 
 🚧 **Análise Exploratória de Dados**: Principais insights e descobertas obtidos durante a análise dos dados.  
 
+Explorando os tipos de variáveis  
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/72392122-41c7-44eb-848a-c20a47f1fda2)
+
 Principais estatísticas da base  
 ![image](https://github.com/contateobrito/Airbnb/assets/79146445/b1a801b4-45e0-4f7f-9c51-e44f633a3d28)
 
