@@ -53,6 +53,9 @@ Histograma da frequencia de dias disponiveis para locação
 Tipo de acomodações em forma de dispersão  
 ![image](https://github.com/contateobrito/Airbnb/assets/79146445/2c8f7c0a-9cc5-47f9-83c0-ac8fab7f14e5)
 
+Correlação entre as variaveis númericas
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/3dc2a55c-fb48-498f-9b4b-664f75de269c)
+
 🚧 **Visualizações**: Gráficos e visualizações criados para representar os padrões e tendências encontrados nos dados.  
 🚧 **Como Contribuir**: Instruções para contribuir com o projeto, seja por meio de correções, melhorias ou novas análises.  
 🚧 **Licença**: Informações sobre a licença do projeto e os termos de uso do código e dos dados.
