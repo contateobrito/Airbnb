@@ -12,6 +12,9 @@ O Airbnb se tornou uma plataforma popular para viajantes em todo o mundo que bus
 ## Objetivos  
 O objetivo deste projeto é realizar uma análise exploratória de dados sobre as listagens do Airbnb na cidade de Nova York. Por meio dessa análise, pretendemos extrair insights significativos sobre os padrões de preços, distribuição geográfica, tipos de propriedades e outras tendências relevantes.
 
+## Cronograma  
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/f42a1671-1d5b-4d4b-943a-09d97cf5784d)
+
 ### Questionamentos que podem ser respondido atráves de uma analise descritiva
 
 - **Distribuição espacial das listagens**: Como as listagens de Airbnb estão distribuídas geograficamente pela cidade de Nova York? Existem áreas com maior concentração de listagens do que outras?
