@@ -12,6 +12,9 @@ O Airbnb se tornou uma plataforma popular para viajantes em todo o mundo que bus
 ## Objetivos  
 O objetivo deste projeto é realizar uma análise exploratória de dados sobre as listagens do Airbnb na cidade de Nova York. Por meio dessa análise, pretendemos extrair insights significativos sobre os padrões de preços, distribuição geográfica, tipos de propriedades e outras tendências relevantes.
 
+## Cronograma  
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/f42a1671-1d5b-4d4b-943a-09d97cf5784d)
+
 ### Questionamentos que podem ser respondido atráves de uma analise descritiva
 
 - **Distribuição espacial das listagens**: Como as listagens de Airbnb estão distribuídas geograficamente pela cidade de Nova York? Existem áreas com maior concentração de listagens do que outras?
@@ -36,10 +39,33 @@ O objetivo deste projeto é realizar uma análise exploratória de dados sobre a
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
-- Scikit-learn
 
 🚧 **Análise Exploratória de Dados**: Principais insights e descobertas obtidos durante a análise dos dados.  
+
+Explorando os tipos de variáveis  
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/72392122-41c7-44eb-848a-c20a47f1fda2)
+
+Principais estatísticas da base  
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/b1a801b4-45e0-4f7f-9c51-e44f633a3d28)
+
+Média de preços de acomodação por distrito  
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/fbc4573c-31ca-4e7a-85d1-3d7d055faaf8)
+
+Distribuição por tipo de acomadação por distrito  
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/7554cd20-7d83-4668-853d-997bed142b46)
+
+Quantidade de host por distrito  
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/07232bd9-f297-4fd4-8006-c1f415c8e83d)
+
+Histograma da frequencia de dias disponiveis para locação  
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/6e9fba46-faf1-4385-9d6c-3d7c88cde549)
+
+Tipo de acomodações em forma de dispersão  
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/2c8f7c0a-9cc5-47f9-83c0-ac8fab7f14e5)
+
+Correlação entre as variaveis númericas
+![image](https://github.com/contateobrito/Airbnb/assets/79146445/3dc2a55c-fb48-498f-9b4b-664f75de269c)
+
 🚧 **Visualizações**: Gráficos e visualizações criados para representar os padrões e tendências encontrados nos dados.  
 🚧 **Como Contribuir**: Instruções para contribuir com o projeto, seja por meio de correções, melhorias ou novas análises.  
 🚧 **Licença**: Informações sobre a licença do projeto e os termos de uso do código e dos dados.
