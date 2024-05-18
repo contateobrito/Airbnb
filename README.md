@@ -72,4 +72,4 @@ Correlação entre as variaveis númericas
 Concluindo, este projeto revelou insights cruciais sobre o mercado de locações em Nova York. Manhattan se destaca como a área mais cara, refletindo sua demanda consistente e sua localização central privilegiada. Além disso, a preferência pela locação completa de casa/apartamento foi amplamente observada, indicando uma preferência dos usuários por privacidade e comodidade. Notavelmente, identificamos uma tendência de exploração imobiliária, com muitos empreendimentos de um mesmo locatário em diferentes distritos, apontando para dinâmicas complexas de investimento e desenvolvimento imobiliário na cidade. Essas descobertas não apenas informam estratégias de negócios no setor de hospedagem, mas também oferecem insights valiosos para investidores e reguladores no mercado imobiliário de Nova York.
 
 ## Video Apresentação
-- [Link Youtube]([https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data?resource=download](https://youtu.be/vdWlaDJUWNY))
+- [Link Youtube](https://youtu.be/vdWlaDJUWNY)
