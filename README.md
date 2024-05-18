@@ -66,6 +66,10 @@ Tipo de acomodações em forma de dispersão
 Correlação entre as variaveis númericas
 ![image](https://github.com/contateobrito/Airbnb/assets/79146445/3dc2a55c-fb48-498f-9b4b-664f75de269c)
 
-🚧 **Visualizações**: Gráficos e visualizações criados para representar os padrões e tendências encontrados nos dados.  
-🚧 **Como Contribuir**: Instruções para contribuir com o projeto, seja por meio de correções, melhorias ou novas análises.  
-🚧 **Licença**: Informações sobre a licença do projeto e os termos de uso do código e dos dados.
+## **Conclusão**   
+![image](https://github.com/contateobrito/Projeto_Aplicado_I/assets/79146445/b1fb8087-36d5-43c5-9aa3-c483c29e7dbf)  
+
+Concluindo, este projeto revelou insights cruciais sobre o mercado de locações em Nova York. Manhattan se destaca como a área mais cara, refletindo sua demanda consistente e sua localização central privilegiada. Além disso, a preferência pela locação completa de casa/apartamento foi amplamente observada, indicando uma preferência dos usuários por privacidade e comodidade. Notavelmente, identificamos uma tendência de exploração imobiliária, com muitos empreendimentos de um mesmo locatário em diferentes distritos, apontando para dinâmicas complexas de investimento e desenvolvimento imobiliário na cidade. Essas descobertas não apenas informam estratégias de negócios no setor de hospedagem, mas também oferecem insights valiosos para investidores e reguladores no mercado imobiliário de Nova York.
+
+## Video Apresentação
+- [Link Youtube]([https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data?resource=download](https://youtu.be/vdWlaDJUWNY))
